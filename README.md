@@ -1,11 +1,18 @@
-## Hi there 👋
+![image](https://github.com/SuperAoao/SuperAoao/assets/45101164/dc2f83df-da03-4916-b3f5-d65a8bd9ca18)## Hi there 👋
+
+I'm a C++ developer based in Beijing.  
+
+- 🔭 I’m currently working on visual effects for space simulation projects. The picture below is a real-time render scene capture. Can you guess which constellation it is?
+
+
+[constellation]("constellation.png")
 
 <!--
 **SuperAoao/SuperAoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
