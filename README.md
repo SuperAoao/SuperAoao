@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm a C++ developer based in Beijing.  
+I previously worked as a C++ Software Engineer in Beijing and am currently pursuing a Master of Computer Science (Advanced Entry) at the University of Sydney.
 
-- 🔭 I’m currently working on visual effects for space simulation projects. The picture below is a real-time render scene capture. Can you guess which constellation it is?
+- 🔭 The picture below is a real-time rendered scene from a space simulation program related to my work. Can you guess which constellation it is?
 
 ![image](https://github.com/SuperAoao/SuperAoao/blob/main/constellation.png))
 
