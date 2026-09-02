@@ -1,22 +1,20 @@
-## Hi there 👋
+# Ao Zhang
 
-I previously worked as a C++ Software Engineer in Beijing and am currently pursuing a Master of Computer Science (Advanced Entry) at the University of Sydney.
+MCS Research Pathway student at the University of Sydney and former
+Lead C++ Software Engineer, working at the intersection of AI/ML,
+real-time systems, computer graphics, and scalable perception.
 
-- 🔭 The picture below is a real-time rendered scene from a space simulation program related to my work. Can you guess which constellation it is?
+- Research: temporal modelling, self-supervised representations,
+  multimodal learning, AI systems
+- Engineering: C++, Python, Qt, OpenGL, OpenSceneGraph, CMake
+- Interests: robotics, embodied AI, AI for science
+- Location: Sydney, Australia
 
-![image](https://github.com/SuperAoao/SuperAoao/blob/main/constellation.png))
-
-<!--
-**SuperAoao/SuperAoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work
+## Research
+## Engineering Experience
+## Technical Skills
+## Contact
+LinkedIn: https://www.linkedin.com/in/ao-zhang-4239ab2a2/
+ORCID: https://orcid.org/0009-0009-8129-7494
+Email: superaoao39@outlook.com
